@@ -47,5 +47,3 @@ const twoSum = (nums, target) => {
   // но на всякий случай возвращаем пустой массив
   return [];
 };
-
-export default twoSum;
